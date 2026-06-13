@@ -20,7 +20,7 @@ This allows managers to view:
 - Direct reports
 - Indirect reports in the hierarchy
 
-**DAX Solution:**
+**Solution:**
 ```sql
 VAR CurrentEmployeeKey =
     LOOKUPVALUE(
@@ -48,7 +48,7 @@ Implemented a Slowly Changing Dimension (SCD Type 2) process for an Asset Regist
 - `EffectiveTo`
 - `IsCurrent`
 
-**SQL Solution:**
+**Solution:**
 ```sql
 
 BEGIN TRANSACTION;
@@ -167,7 +167,7 @@ Provided a PowerShell-based pseudo-script demonstrating:
 
 ---
 
-**SQL Solution:**
+**Solution:**
 ```sql
 
 # -------------------------------------------------------
