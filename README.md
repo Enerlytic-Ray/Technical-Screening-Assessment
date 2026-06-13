@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains my solutions to a technical mini challenge focused on:
+This repository contains my solutions to the technical mini challenge focused on:
 
 * Dynamic Row-Level Security (RLS) in Power BI using DAX
 * Slowly Changing Dimension (SCD Type 2) implementation in T-SQL
