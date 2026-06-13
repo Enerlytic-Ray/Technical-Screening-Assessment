@@ -151,7 +151,7 @@ END CATCH;
 ```
 ---
 
-## Task 3: BI Platform REST API Deployment
+## Task 3: Automation Script Snippet
 Provided a PowerShell-based pseudo-script demonstrating:
 
 - REST API authentication
