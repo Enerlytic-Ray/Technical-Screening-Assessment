@@ -1,4 +1,4 @@
-# BI Mini Challenge Submission
+# BI Mini Challenge Solution
 ## 👨‍💻 By Adejoro Raymond Olaotan
 
 ## Overview
