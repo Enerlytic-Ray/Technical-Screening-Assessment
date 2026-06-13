@@ -20,7 +20,7 @@ This allows managers to view:
 - Direct reports
 - Indirect reports in the hierarchy
 
-**SQL Solution:**
+**DAX Solution:**
 ```sql
 VAR CurrentEmployeeKey =
     LOOKUPVALUE(
