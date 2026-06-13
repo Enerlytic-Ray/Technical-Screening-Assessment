@@ -1,6 +1,13 @@
 # BI Mini Challenge Submission
+## 👨‍💻 By Adejoro Raymond Olaotan
 
-This repository contains solutions to the mini technical assessment covering:
+## Overview
+
+This repository contains my solutions to a technical mini challenge focused on:
+
+* Dynamic Row-Level Security (RLS) in Power BI using DAX
+* Slowly Changing Dimension (SCD Type 2) implementation in T-SQL
+* BI deployment automation using REST APIs and PowerShell
 
 ## Task 1: Advanced DAX (Dynamic RLS)
 Implemented dynamic Row-Level Security (RLS) using:
